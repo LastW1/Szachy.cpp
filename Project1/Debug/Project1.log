@@ -1,0 +1,7 @@
+﻿  klasa.cpp
+  klasa2.cpp
+  Źródło.cpp
+  Generowanie kodu...
+c:\users\lenovo\source\repos\szachy\project1\project1\klasa.cpp(117): warning C4715: "gra::szach”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\lenovo\source\repos\szachy\project1\project1\klasa.cpp(604): warning C4715: "gra::poprawnosc”: niewszystkie ścieżki kodu zwracają wartość
+  Project1.vcxproj -> C:\Users\Lenovo\source\repos\szachy\Project1\Debug\Project1.exe
